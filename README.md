@@ -49,12 +49,14 @@ Direct connection: CIRCUIT DIAGRAM:
 
 Tabulation:1
 <img width="1999" height="1545" alt="image" src="https://github.com/user-attachments/assets/282281e1-ad84-4fb5-a120-12430ac5a2cc" />
-<img width="1999" height="1545" alt="image" src="https://github.com/user-attachments/assets/22338abc-6c4c-4cef-a440-c0f08238dad5" />
+
 
 
 	
 Cross connection: CIRCUIT DIAGRAM:
 <img width="1999" height="1545" alt="image" src="https://github.com/user-attachments/assets/0ffebf27-d732-44f6-ac23-690e84ec5e77" />
+<img width="1999" height="1545" alt="image" src="https://github.com/user-attachments/assets/22338abc-6c4c-4cef-a440-c0f08238dad5" />
+<img width="1999" height="1545" alt="image" src="https://github.com/user-attachments/assets/3503f5ba-ea17-4524-8853-f65994e8bd16" />
 
 
 Tabulation:2

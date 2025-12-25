@@ -52,6 +52,8 @@ Tabulation:1
 
 	
 Cross connection: CIRCUIT DIAGRAM:
+<img width="1999" height="1545" alt="image" src="https://github.com/user-attachments/assets/0ffebf27-d732-44f6-ac23-690e84ec5e77" />
+
 
 Tabulation:2
 <img width="1999" height="1545" alt="image" src="https://github.com/user-attachments/assets/ff1cbbb7-0cd4-42a9-b6c8-cac27b148ff7" />
